@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @yevgenym-exon
+- 👋 Hi, I’m Yevgeny M
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning ...
 - 📫 Reach me via email or slack
 
 <!---
